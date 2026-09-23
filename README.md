@@ -17,4 +17,16 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+## String
+|  |
+| ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Counting
+|  |
+| ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
