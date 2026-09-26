@@ -7,6 +7,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -34,4 +35,12 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
