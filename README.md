@@ -8,6 +8,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
+| [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -53,4 +54,8 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
