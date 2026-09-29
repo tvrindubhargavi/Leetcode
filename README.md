@@ -7,6 +7,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
@@ -58,10 +59,12 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
