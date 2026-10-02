@@ -28,6 +28,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -43,6 +44,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
@@ -55,10 +57,12 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
