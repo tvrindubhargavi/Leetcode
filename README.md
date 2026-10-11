@@ -12,6 +12,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tvrindubhargavi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | ------- |
 | [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tvrindubhargavi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
