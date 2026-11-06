@@ -29,6 +29,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -43,6 +44,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 ## Backtracking
 |  |
@@ -65,6 +67,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
@@ -78,4 +81,8 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tvrindubhargavi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
