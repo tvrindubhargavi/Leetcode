@@ -7,6 +7,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tvrindubhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/tvrindubhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/tvrindubhargavi/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
@@ -17,6 +18,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tvrindubhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
