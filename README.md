@@ -13,6 +13,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | [0055-jump-game](https://github.com/tvrindubhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/tvrindubhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tvrindubhargavi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tvrindubhargavi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | [0033-search-in-rotated-sorted-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tvrindubhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tvrindubhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tvrindubhargavi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Ternary Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tvrindubhargavi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tvrindubhargavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tvrindubhargavi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
