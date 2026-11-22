@@ -41,6 +41,7 @@ A collection of my LeetCode solutions focused on Data Structures, Algorithms, pr
 | [0058-length-of-last-word](https://github.com/tvrindubhargavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [1332-remove-palindromic-subsequences](https://github.com/tvrindubhargavi/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tvrindubhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tvrindubhargavi/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/tvrindubhargavi/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/tvrindubhargavi/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
